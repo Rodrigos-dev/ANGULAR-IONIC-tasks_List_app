@@ -21,11 +21,6 @@ Aplicativo desenvolvido com **Ionic Framework** e **Angular**, utilizando **Type
 - 🔗 [GitHub Pages](https://rodrigos-dev.github.io/ANGULAR-IONIC-tasks_List_app/)
 - 🔗 [Firebase Hosting](https://ionic-firestore-tasks-16d73.web.app)
 
-## Instalação local
-
-```bash
-npm install
-ionic serve
 
 
 ## Screenshots
