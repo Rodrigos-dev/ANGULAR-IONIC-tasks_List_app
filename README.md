@@ -29,20 +29,27 @@ Aplicativo desenvolvido com **Ionic Framework** e **Angular**, utilizando **Type
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f078b4ca-28e1-4fb3-89dc-b6eea6347c26" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3a99396c-eb82-44ab-8021-8bc9b57635a3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/dfb25885-83a3-4a1c-8cb1-ac6a766398c3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5cd57f4b-dd39-4656-a0b4-4485cf98881d" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f078b4ca-28e1-4fb3-89dc-b6eea6347c26" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3a99396c-eb82-44ab-8021-8bc9b57635a3" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfb25885-83a3-4a1c-8cb1-ac6a766398c3" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5cd57f4b-dd39-4656-a0b4-4485cf98881d" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/261f07c3-910c-498a-8ab5-eb4df716e549" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/117d2f8a-88fa-443e-b718-2504c05d2a2b" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c27f751e-0ade-4abd-9f99-ba7b81c938be" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3548eab4-3b3c-4a57-9041-cb6b31033cb7" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/261f07c3-910c-498a-8ab5-eb4df716e549" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/117d2f8a-88fa-443e-b718-2504c05d2a2b" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c27f751e-0ade-4abd-9f99-ba7b81c938be" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3548eab4-3b3c-4a57-9041-cb6b31033cb7" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3b518060-c448-43bf-9b76-0cbd9d599c79" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d2366f0b-52d2-47f5-952a-b32ede5ea77c" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3b518060-c448-43bf-9b76-0cbd9d599c79" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d2366f0b-52d2-47f5-952a-b32ede5ea77c" width="100"/></td>
   </tr>
 </table>
+
+
+## Instalação local
+
+```bash
+npm install
+ionic serve
 
