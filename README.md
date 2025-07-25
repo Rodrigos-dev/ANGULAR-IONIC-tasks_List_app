@@ -15,7 +15,7 @@ Aplicativo desenvolvido com **Ionic Framework** e **Angular**, utilizando **Type
 - Angular
 - Firebase (Auth + Firestore)
 - TypeScript / JavaScript
-
+- 
 ## Links de Deploy
 
 - 🔗 [GitHub Pages](https://rodrigos-dev.github.io/ANGULAR-IONIC-tasks_List_app/)
