@@ -35,8 +35,7 @@ Aplicativo desenvolvido com **Ionic Framework** e **Angular**, utilizando **Type
     <td><img src="https://github.com/user-attachments/assets/5cd57f4b-dd39-4656-a0b4-4485cf98881d" width="50"/></td>
     <td><img src="https://github.com/user-attachments/assets/261f07c3-910c-498a-8ab5-eb4df716e549" width="50"/></td>
   </tr>
-  <tr>
-    
+  <tr>    
     <td><img src="https://github.com/user-attachments/assets/117d2f8a-88fa-443e-b718-2504c05d2a2b" width="50"/></td>
     <td><img src="https://github.com/user-attachments/assets/c27f751e-0ade-4abd-9f99-ba7b81c938be" width="50"/></td>
     <td><img src="https://github.com/user-attachments/assets/3548eab4-3b3c-4a57-9041-cb6b31033cb7" width="50"/></td>
