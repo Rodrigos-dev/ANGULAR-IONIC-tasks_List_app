@@ -1,4 +1,4 @@
-# ANGULAR - Ionic Task List App
+# ANGULAR - IONIC - Task List App
 
 Aplicativo desenvolvido com **Ionic Framework** e **Angular**, utilizando **TypeScript** e **Firebase** como backend. O app permite **login e cadastro com Facebook**, gerenciamento de tarefas em tempo real via **Firestore**.
 
